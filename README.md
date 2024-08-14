@@ -4,10 +4,10 @@ I'm Muhammad, a passionate Front-End Developer with 2 years of experience specia
 
 
 <a href="https://github.com/Arplight/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arplight&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=arplight&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/Arplight/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arplight&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arplight&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
 </a>
 
 
