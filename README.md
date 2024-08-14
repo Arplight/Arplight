@@ -10,5 +10,5 @@ I'm Muhammad, a passionate Front-End Developer with 2 years of experience specia
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=blueberry" />
 </a>
 
-  <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arplight&theme=blueberry&hide_border=false" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arplight&theme=blueberry&hide_border=false&card_width=450" />
 
